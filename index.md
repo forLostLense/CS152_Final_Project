@@ -1,4 +1,8 @@
-<header>
+---
+title: This is my title
+layout: post
+---
+
 Final Project
 ## Welcome to GitHub Pages
 
